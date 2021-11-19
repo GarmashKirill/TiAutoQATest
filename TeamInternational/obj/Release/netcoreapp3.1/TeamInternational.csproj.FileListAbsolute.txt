@@ -1,0 +1,13 @@
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\obj\Release\netcoreapp3.1\TeamInternational.csproj.AssemblyReference.cache
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\obj\Release\netcoreapp3.1\TeamInternational.AssemblyInfoInputs.cache
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\obj\Release\netcoreapp3.1\TeamInternational.AssemblyInfo.cs
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\bin\Release\netcoreapp3.1\TeamInternational.exe
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\bin\Release\netcoreapp3.1\TeamInternational.deps.json
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\bin\Release\netcoreapp3.1\TeamInternational.runtimeconfig.json
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\bin\Release\netcoreapp3.1\TeamInternational.runtimeconfig.dev.json
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\bin\Release\netcoreapp3.1\TeamInternational.dll
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\bin\Release\netcoreapp3.1\TeamInternational.pdb
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\obj\Release\netcoreapp3.1\TeamInternational.csproj.CoreCompileInputs.cache
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\obj\Release\netcoreapp3.1\TeamInternational.dll
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\obj\Release\netcoreapp3.1\TeamInternational.pdb
+D:\Programing\C#\VisualStudioCommunity\Workspace\TeamInternational\TeamInternational\obj\Release\netcoreapp3.1\TeamInternational.genruntimeconfig.cache
